@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
     <h1 align="center">Hi 👋 I'm Ahmad Hassan Khan</h1>
     <h3 align="center">A passionate Web developer from Pakistan</h3>
 
@@ -245,5 +237,3 @@
     </p>
 
     <br /><br />
-  </body>
-</html>
