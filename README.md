@@ -37,7 +37,7 @@
 
 - 🔭 Working on Mern Stack
 - 🌱 Learning Next.JS,TypeScript & more
-- 📫 How to contact me: codewithahk@gmail.com (Email)
+- 📫 How to contact me: <a href="https://linktr.ee/mrahmadhassankhan"><button>Contact Me</button></a>
 
 ## Languages and Tools
 
