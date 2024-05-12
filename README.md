@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Mern%20Stack%20Developer%20Bot;MongoDb%20Express%ReactJSover%20NodeJS;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Mern%20Stack%20Developer;MongoDb%20Express%ReactJSover%20NodeJS;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/mrahmadhassankhan">Ahmad Hassan Khan</a></h3>
