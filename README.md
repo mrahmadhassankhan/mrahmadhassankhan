@@ -7,10 +7,7 @@
 
 ## Profile Views
   <table>
-    <tr>
-      <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
+
     <tr>
       <td>
         <div align="center">
