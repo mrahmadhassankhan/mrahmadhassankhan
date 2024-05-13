@@ -24,7 +24,7 @@
 ## What I'm Doing
 
 - 🔭 Working on Mern Stack
-- 🌱 Learning Next.JS,TypeScript & more
+- 🌱 Learning to Next.JS and TypeScript 
 - 📫 How to contact me: <a href="https://linktr.ee/mrahmadhassankhan"><button>Click Here</button></a>
 
 ## Languages and Tools
