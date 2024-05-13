@@ -58,8 +58,6 @@
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/mrahmadhassankhan/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrahmadhassankhan&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/mrahmadhassankhan/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrahmadhassankhan&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+     <a href="[https://github.com/mrahmadhassankhan/]([https://github.com/mrahmadhassankhan/chegg-bartleby-discord-bot](https://github.com/mrahmadhassankhan/chegg-bartleby-discord-bot))"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrahmadhassankhan&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    </p>
 
