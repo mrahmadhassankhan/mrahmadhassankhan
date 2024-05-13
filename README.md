@@ -56,8 +56,4 @@
 </a> 
 </p>
 
-## Top Respositorys
-  <p align="left">
-     <a href="[https://github.com/mrahmadhassankhan/]([https://github.com/mrahmadhassankhan/chegg-bartleby-discord-bot](https://github.com/mrahmadhassankhan/chegg-bartleby-discord-bot))"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrahmadhassankhan&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    </p>
 
