@@ -7,18 +7,17 @@
 ## Profile Views
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
+      <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
+      <td>
         <div align="center">
           <a href="https://github.com/mrahmadhassankhan"><img src="https://github.com/mrahmadhassankhan.png" alt="@mrahmadhassankhan" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/mrahmadhassankhan"><b>Ahmad Hassan Khan</b></a>
         </b>
-      </td> -->
-      <!-- Profile Views -->
+      </td> 
       <td>
          <a href="https://github.com/mrahmadhassankhan"> <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=for-the-badge&color=brightgreen"> </a>
       </td>
