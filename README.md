@@ -37,7 +37,7 @@
 
 - 🔭 Working on Mern Stack
 - 🌱 Learning Next.JS,TypeScript & more
-- 📫 How to contact me: <a href="https://linktr.ee/mrahmadhassankhan"><button>Contact Me</button></a>
+- 📫 How to contact me: <a href="https://linktr.ee/mrahmadhassankhan"><button>Click Here</button></a>
 
 ## Languages and Tools
 
