@@ -7,7 +7,6 @@
 
 ## Profile Views
   <table>
-
     <tr>
       <td>
         <div align="center">
