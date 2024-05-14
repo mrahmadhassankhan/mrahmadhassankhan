@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=React%20JS%20Developer;1+%20year%20of%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D731&random=false&width=435&lines=Front+End+Web+Developer" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Hey there, I'm <a href="https://github.com/mrahmadhassankhan">Ahmad Hassan Khan</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
