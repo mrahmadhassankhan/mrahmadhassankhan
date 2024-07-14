@@ -23,8 +23,8 @@
 
 ## What I'm Doing
 
-- 🔭 Working on Mern Stack
-- 🌱 Currenly Working on Final Year Project 
+- 🔭 Website Developnment
+- 🌱 Working on Final Year Project 
 - 📫 How to contact me: <a href="https://linktr.ee/mrahmadhassankhan"><button>Click Here</button></a>
 
 ## Languages and Tools
