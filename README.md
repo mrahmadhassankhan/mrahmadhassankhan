@@ -16,7 +16,7 @@
 
 ## What I'm Doing
 
-- 🔭 Restful Api Developnment 
+- 🔭 Building a Platform in Mern Stack for Instructors and Students to minimize the learning gap all over the world.
 - 🌱 Working on Final Year Project Green Line Farm it encompasses aspects of e-commerce, community engagement, and precision farming to improve agricultural practices and increase crop yield.
 - 📫 How to contact me: <a href="https://linktr.ee/mrahmadhassankhan"><button>Click Here</button></a>
 
