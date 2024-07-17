@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/mrahmadhassankhan"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vite,react,redux,express,nodejs,mongodb,postman,ubuntu,vscode,git,github,figma,aws,docker"> </a> </p>
+<p align="left"> <a href="https://github.com/mrahmadhassankhan"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vite,react,redux,express,nodejs,redis,mongodb,postman,ubuntu,vscode,git,github,figma,aws,docker"> </a> </p>
 
 ## My Stats:
 <p align="center">
