@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 <br> <br>
