@@ -66,5 +66,5 @@ Connect with me and stay updated with my latest projects and insights:
 </div>
 
 <p align="center">
- <img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=mrahmadhassankhan&repo=your-repo-name" alt="Pinned Repo"/>
+ <img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=mrahmadhassankhan&repo=mrahmadhassankhan" alt="Pinned Repo"/>
 </p>
