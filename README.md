@@ -4,10 +4,14 @@
   </a>
 </p>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
-I'm Ahmad a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
+I'm Ahmad, a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
 
 I am proficient in JavaScript, TypeScript, and various databases, including PostgreSQL, MongoDB, Redis, Firebase, InfluxDB, Cassandra, and Neo4j. My expertise includes:
 
@@ -61,7 +65,7 @@ Connect with me:
 **Tools & Technologies:**
 
 | Git | Postman | Swagger | Elasticsearch | Kafka | NGINX |
-|-----|---------|---------|----------------|-------|-------|------------|
+|-----|---------|---------|----------------|-------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/> |
 
 **OS:**
@@ -77,13 +81,9 @@ Connect with me:
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
 
 
