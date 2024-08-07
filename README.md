@@ -12,25 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
-I'm Ahmad, a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
-
-I am proficient in JavaScript, TypeScript, and various databases, including PostgreSQL, MongoDB, Redis, Firebase, InfluxDB, Cassandra, and Neo4j. My expertise includes:
-
-- ORM usage
-- ACID transactions
-- Database normalization
-- Addressing the N+1 problem
-- Caching strategies
-- Authentication (JWT, OAuth, Basic Auth, Cookie-based, Token-based)
-- API development (REST, JSON, GraphQL)
-- Web security practices (HTTPS, OWASP, CORS, SSL/TLS, CSP)
-- Testing (integration, unit, functional)
-
-I am proficient in containerization with Docker and orchestration with Kubernetes. Additionally, I work with Kafka, Elasticsearch, NGINX, and real-time communication technologies (WebSockets, SSE). 
-
-My knowledge extends to architectural patterns (monolithic, microservices, SOA, serverless, service mesh, twelve-factor apps), resilience patterns (load shifting, throttling, backpressure, circuit breaker, graceful degradation), and observability (instrumentation, monitoring, telemetry).
-
-I have been using the Linux Operating System (Ubuntu) for the past seven years and love it. Outside of tech, I enjoy going to the gym and listening to music. I'm always on the lookout for new challenges and opportunities to grow my skills.
+I'm Ahmad, a final-year Software Engineering student specializing in JavaScript with extensive full stack development experience. My focus is on backend development with Node.js/Express and frontend with React, alongside expertise in databases, containerization, and orchestration. I’m passionate about web security and real-time communication.
 
 ### Social Media: 📡
 Connect with me:
