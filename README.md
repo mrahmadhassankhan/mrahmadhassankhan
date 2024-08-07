@@ -7,7 +7,7 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
+<br> <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
@@ -82,7 +82,7 @@ Connect with me:
 </p>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 
