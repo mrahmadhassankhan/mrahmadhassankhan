@@ -25,14 +25,11 @@ I have been using the Linux Operating System (Ubuntu) for the past seven years a
 Connect with me and stay updated with my latest projects and insights:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrahmadhassankhan)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahmadhassankhan)
 
 ### Projects I'm Working On: 🚀
 
-- [Gym Exercise Tracker Web Application](https://github.com/mrahmadhassankhan/gym-exercise-tracker)
-- [Buy-and-Sell Accounts Website](https://github.com/mrahmadhassankhan/buy-and-sell-accounts)
-- [Freelancer Projects](https://www.freelancer.com/u/mrahmadhassankhan)
-
+- [Green Farm Line (Final Year Project)]The project focuses on leveraging technology to address challenges faced by farmers in the agriculture sector. It encompasses aspects of e-commerce, community engagement, and precision farming to improve agricultural practices and increase crop yield.
+  
 ### Languages and Tools:
 <div>
 
@@ -77,8 +74,9 @@ Connect with me and stay updated with my latest projects and insights:
   </a>
 </p>
 
-### Let's Connect:
-Feel free to reach out if you want to collaborate on projects or discuss technology!
-
-- [LinkedIn](https://www.linkedin.com/in/mrahmadhassankhan)
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=for-the-badge&color=orange" alt=""/>
+</div>
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
