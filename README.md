@@ -3,16 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
-<h3 align="center">
-  <a href="https://github.com/mrahmadhassankhan">Ahmad Hassan Khan</a>
-</h3>
-
-<br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
-I'm a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
+I'm Ahmad a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
 
 I am proficient in JavaScript, TypeScript, and various databases, including PostgreSQL, MongoDB, Redis, Firebase, InfluxDB, Cassandra, and Neo4j. My expertise includes:
 
