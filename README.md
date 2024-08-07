@@ -1,9 +1,25 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
-Currently, I'm focusing on backend development with a strong emphasis on Node.js and Express, while also working on frontend projects using React. I have extensive experience with various databases and web security practices, and I actively explore technologies like Docker, Kubernetes, Kafka, and Elasticsearch.
+Hello, I'm Ahmad Hassan Khan, a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
 
-During my free time, I enjoy going to the gym and listening to music. I'm always on the lookout for new challenges and opportunities to grow my skills.
+I am proficient in JavaScript, TypeScript, and various databases, including PostgreSQL, MongoDB, Redis, Firebase, InfluxDB, Cassandra, and Neo4j. My expertise includes:
+
+- ORM usage
+- ACID transactions
+- Database normalization
+- Addressing the N+1 problem
+- Caching strategies
+- Authentication (JWT, OAuth, Basic Auth, Cookie-based, Token-based)
+- API development (REST, JSON, GraphQL)
+- Web security practices (HTTPS, OWASP, CORS, SSL/TLS, CSP)
+- Testing (integration, unit, functional)
+
+I am proficient in containerization with Docker and orchestration with Kubernetes. Additionally, I work with Kafka, Elasticsearch, NGINX, and real-time communication technologies (WebSockets, SSE). 
+
+My knowledge extends to architectural patterns (monolithic, microservices, SOA, serverless, service mesh, twelve-factor apps), resilience patterns (load shifting, throttling, backpressure, circuit breaker, graceful degradation), and observability (instrumentation, monitoring, telemetry).
+
+I have been using the Linux Operating System (Ubuntu) for the past seven years and love it. Outside of tech, I enjoy going to the gym and listening to music. I'm always on the lookout for new challenges and opportunities to grow my skills.
 
 ### Social Media: 📡
 Connect with me and stay updated with my latest projects and insights:
@@ -22,11 +38,11 @@ Connect with me and stay updated with my latest projects and insights:
 
 **Languages:**
 
-| JavaScript | TypeScript | Python | SQL | NoSQL |
-|------------|------------|--------|-----|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nosql/nosql-original.svg" title="NoSQL" alt="NoSQL" width="55" height="55"/> |
+| JavaScript | TypeScript | Python | SQL | NoSQL | Java | C++ | C# | Swift |
+|------------|------------|--------|-----|-------|------|-----|----|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nosql/nosql-original.svg" title="NoSQL" alt="NoSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> |
 
-**Frameworks & Libraries:**
+**Libraries & Frameworks**
 
 | React | Node.js | Express | Docker | Kubernetes |
 |-------|---------|---------|--------|------------|
@@ -34,15 +50,15 @@ Connect with me and stay updated with my latest projects and insights:
 
 **Databases:**
 
-| PostgreSQL | MongoDB | Redis | Firebase | InfluxDB |
-|------------|---------|-------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB" alt="InfluxDB" width="55" height="55"/> |
+| PostgreSQL | MongoDB | Redis | Firebase | InfluxDB | Cassandra | Neo4j |
+|------------|---------|-------|----------|----------|-----------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB" alt="InfluxDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j" alt="Neo4j" width="55" height="55"/> |
 
 **Tools & Technologies:**
 
-| Git | Postman | Swagger | Elasticsearch | Kafka |
-|-----|---------|---------|----------------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="55" height="55"/> |
+| Git | Postman | Swagger | Elasticsearch | Kafka | NGINX | WebSockets | SSE |
+|-----|---------|---------|----------------|-------|-------|------------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/websocket/websocket-original.svg" title="WebSockets" alt="WebSockets" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sse/sse-original.svg" title="SSE" alt="SSE" width="55" height="55"/> |
 
 **OS:**
 
@@ -52,17 +68,17 @@ Connect with me and stay updated with my latest projects and insights:
 
 </div>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrahmadhassankhan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<p align="left">
+  <a href="https://github.com/mrahmadhassankhan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/mrahmadhassankhan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&layout=compact&hide_border=true&theme=radical"/>
+  </a>
 </p>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+### Let's Connect:
+Feel free to reach out if you want to collaborate on projects or discuss technology!
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
-
+- [LinkedIn](https://www.linkedin.com/in/mrahmadhassankhan)
 
