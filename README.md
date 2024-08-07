@@ -65,12 +65,11 @@ Connect with me and stay updated with my latest projects and insights:
 
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mrahmadhassankhan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
   </a>
-  </p>
-  <p algin="right">
+ &emsp;
   <a href="https://github.com/mrahmadhassankhan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&layout=compact&hide_border=true&theme=radical"/>
   </a>
