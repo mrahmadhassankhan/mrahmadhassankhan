@@ -62,7 +62,7 @@ Connect with me and stay updated with my latest projects and insights:
 </p>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 
