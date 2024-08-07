@@ -81,10 +81,20 @@ Connect with me:
 <p align="left">
   <a href="https://github.com/mrahmadhassankhan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&show_icons=true&hide
-
 _title=false&count_private=true&hide=prs&theme=dark&bg_color=000000&icon_color=F7D731&text_color=ffffff" alt="Ahmad's GitHub Stats"/>
   </a>
   <a href="https://github.com/mrahmadhassankhan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=ffffff&icon_color=F7D731" alt="Ahmad's Top Languages"/>
   </a>
 </p>
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+
