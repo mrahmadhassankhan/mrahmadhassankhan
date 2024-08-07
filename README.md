@@ -1,13 +1,19 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D731&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D731&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
+  </a>
 </p>
-<h3 align="center"><a href="https://github.com/mrahmadhassankhan">Ahmad Hassan Khan</a></h3>
+
+<h3 align="center">
+  <a href="https://github.com/mrahmadhassankhan">Ahmad Hassan Khan</a>
+</h3>
+
 <br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
-I'm final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
+I'm a final-year Software Engineering undergraduate specializing in JavaScript. I have extensive experience in full stack development, with a strong focus on backend development using Node.js and Express, as well as frontend development with React.
 
 I am proficient in JavaScript, TypeScript, and various databases, including PostgreSQL, MongoDB, Redis, Firebase, InfluxDB, Cassandra, and Neo4j. My expertise includes:
 
@@ -43,14 +49,14 @@ Connect with me:
 **Languages:**
 
 | JavaScript | TypeScript | Python | Java | C++ | C# | Swift |
-|------------|------------|--------|-----|-------|------|-----|----|-------|
+|------------|------------|--------|------|-----|-----|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> |
 
 **Libraries & Frameworks:**
 
 | React | Node.js | Express | Redux | Docker | Kubernetes |
-|-------|---------|---------|--------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt = "Redux" width= "55" height= "55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
+|-------|---------|---------|--------|---------|-------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
 
 **Databases:**
 
@@ -74,17 +80,11 @@ Connect with me:
 
 <p align="left">
   <a href="https://github.com/mrahmadhassankhan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&show_icons=true&hide
 
+_title=false&count_private=true&hide=prs&theme=dark&bg_color=000000&icon_color=F7D731&text_color=ffffff" alt="Ahmad's GitHub Stats"/>
+  </a>
   <a href="https://github.com/mrahmadhassankhan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&layout=compact&hide_border=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=ffffff&icon_color=F7D731" alt="Ahmad's Top Languages"/>
   </a>
-</p>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrahmadhassankhan&style=for-the-badge&color=orange" alt=""/>
-</div>
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
