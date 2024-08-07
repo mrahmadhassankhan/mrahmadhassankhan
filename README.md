@@ -28,32 +28,7 @@ Connect with me and stay updated with my latest projects and insights:
 
 ### Projects I'm Working On: 🚀
 
-- [Green Farm Line (Final Year Project)]The project focuses on leveraging technology to address challenges faced by farmers in the agriculture sector. It encompasses aspects of e-commerce, community engagement, and precision farming to improve agricultural practices and increase crop yield.
-  
-### Languages and Tools:
-<div>
-
-**Languages:**
-
-| JavaScript | TypeScript | Python | SQL | NoSQL | Java | C++ | C# | Swift |
-|------------|------------|--------|-----|-------|------|-----|----|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="[https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nosql/nosql-original.svg" title="NoSQL" alt="NoSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> |
-
-**Libraries & Frameworks**
-
-| React | Node.js | Express | Docker | Kubernetes |
-|-------|---------|---------|--------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
-
-**Databases:**
-
-| PostgreSQL | MongoDB | Redis | Firebase | InfluxDB | Cassandra | Neo4j |
-|------------|---------|-------|----------|----------|-----------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="InfluxDB" alt="InfluxDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j" alt="Neo4j" width="55" height="55"/> |
-
-Your "Languages and Tools" section looks great, but it could benefit from a little reorganization for better visual appeal and consistency. Here’s a cleaned-up version with aligned tables and a consistent style:
-
----
+- **Green Farm Line** The project focuses on leveraging technology to address challenges faced by farmers in the agriculture sector. It encompasses aspects of e-commerce, community engagement, and precision farming to improve agricultural practices and increase crop yield.
 
 ### Languages and Tools:
 
