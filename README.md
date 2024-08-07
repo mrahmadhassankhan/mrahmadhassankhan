@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D731&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+</p>
+<h3 align="center">Hey there, I'm <a href="https://github.com/mrahmadhassankhan">Ahmad Hassan Khan</a></h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrahmadhassankhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:
