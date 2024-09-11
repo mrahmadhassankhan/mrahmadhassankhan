@@ -53,9 +53,9 @@ Connect with me:
 
 <div align="center">
   
-  <a href="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true"></a><br>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false"></a><br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact"></a>
+  ![]("https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true")
+  ![]("https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false")
+  ![]("https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact")
  
 </div>
 
