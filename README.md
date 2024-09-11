@@ -53,10 +53,10 @@ Connect with me:
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false)<br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact)
-  
+  <p width="200"> <a href="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true"></a><br></p>
+  <p width="200"> <a href="https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false"></a><br></p>
+  <p width="200"> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact"></a><br></p>
+ 
 </div>
 
 <p align="center">
