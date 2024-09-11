@@ -52,11 +52,11 @@ Connect with me:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true" width="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true" width="400" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false" width="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false" width="400" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact" width="200" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact" width="400" alt="Top Languages"/>
 </div>
 
 
