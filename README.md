@@ -51,12 +51,12 @@ Connect with me:
 |--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
-<div align="center">
+<div>
   
-  ![]("https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true")
-  ![]("https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false")
+  ![]("https://github-readme-stats.vercel.app/api?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&count_private=true")<br/>
+  ![]("https://github-readme-streak-stats.herokuapp.com/?user=mrahmadhassankhan&theme=radical&hide_border=false")<br/>
   ![]("https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmadhassankhan&theme=radical&show_icons=true&hide_border=false&layout=compact")
- 
+  
 </div>
 
 <p align="center">
