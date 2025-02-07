@@ -38,16 +38,3 @@
 <a href="mailto:codewithahk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.linkedin.com/in/mrahmadhassankhan/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-## 💰 Donations
-
-If you find my work helpful and want to support me, you can donate via the following method:
-
-### JazzCash
-<a href="">
-  <img src="https://www.jazzcash.com.pk/assets/themes/jazzcash/img/jazzcash-logo.png" alt="JazzCash" width="200">
-</a>
-
-- **JazzCash Number**: `03037104782`
-- **Name**: Ahmad Hassan Khan
-
-
